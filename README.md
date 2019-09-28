@@ -1,2 +1,3 @@
 # andmohiko.github.io
-i am andmohiko
+I am andmohiko.
+https://andmohiko.github.io/
