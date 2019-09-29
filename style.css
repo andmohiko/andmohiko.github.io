@@ -60,6 +60,12 @@ header p{
 }
 
 /*****BRANDING*****/
+#logo{
+    width: 60%;
+    height: auto;
+}
+
+/*****BRANDING*****/
 #branding{
     display: block;
     width: 60%;
