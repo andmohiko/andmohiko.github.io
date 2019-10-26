@@ -1,3 +1,6 @@
 # andmohiko.github.io
-I am andmohiko.
+andmohiko.
 https://andmohiko.github.io/
+
+## bootstrap template
+https://www.styleshout.com/free-templates/ceevee/
